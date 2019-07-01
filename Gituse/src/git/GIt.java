@@ -8,4 +8,7 @@ public class GIt {
     public void test(){
         System.out.println("aaaaaa");
     }
+    public void test1(){
+        System.out.println("bbbbbb");
+    }
 }
